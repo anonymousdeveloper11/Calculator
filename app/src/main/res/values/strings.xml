@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dangi Calculator</string>
+
+    <string name="plus">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+</resources>
